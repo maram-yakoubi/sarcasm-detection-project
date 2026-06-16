@@ -281,7 +281,7 @@ If you use this work, please cite:
 bibtex
 @article{sarcasm2024,
   title={Towards Robust Sarcasm and Irony Detection: Combining Fine-Tuned Transformers with Few-Shot LLMs},
-  author={Yakoubi, Maram and Fliss, Imtiez and Belkahla Driss, Olfa},
+  author={Yakoubi Maram , Fliss Imtiez and Belkahla Driss Olfa},
   year={2024}
 }
 🚀 Future Work
@@ -312,19 +312,6 @@ Mistral AI
 
 Kaggle GPU platform
 
-🚀 Résultat : Ton repo est maintenant :
-
-✔ propre
-
-✔ structuré
-
-✔ scientifique
-
-✔ reviewer-ready
-
-✔ proche publication IEEE
-
-✔ GitHub "top-tier ML project"
 
 ⭐ If you find this work useful, please consider giving it a star!
 
